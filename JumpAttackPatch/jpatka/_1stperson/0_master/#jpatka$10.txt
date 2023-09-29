@@ -1,0 +1,5 @@
+		<hkobject name="#jpatka$10" class="hkbExpressionCondition" signature="0x1c3c1045">
+			<hkparam name="expression">(iWeapOut == 1) &amp;&amp; (!bParaGliding == 0)</hkparam>
+		</hkobject>
+
+<!--Adds in a check if you're paragliding as well to prevent incorrect transitions-->

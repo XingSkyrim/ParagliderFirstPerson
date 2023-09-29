@@ -1,0 +1,14 @@
+		<hkobject name="#para$160" class="hkbStateMachineEventPropertyArray" signature="0xb07b4388">
+			<hkparam name="events" numelements="2">
+				<hkobject>
+					<hkparam name="id">937</hkparam>
+					<hkparam name="payload">#para$173</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="id">$eventID[PIE]$</hkparam>
+					<hkparam name="payload">#para$161</hkparam>
+				</hkobject>
+			</hkparam>
+		</hkobject>
+
+<!--Adds back AnimobjectLoad event-->

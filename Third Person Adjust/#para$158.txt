@@ -1,0 +1,18 @@
+		<hkobject name="#para$158" class="hkbStateMachineEventPropertyArray" signature="0xb07b4388">
+			<hkparam name="events" numelements="3">
+				<hkobject>
+					<hkparam name="id">$eventID[PIE]$</hkparam>
+					<hkparam name="payload">#para$159</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="id">543</hkparam>
+					<hkparam name="payload">null</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="id">707</hkparam>
+					<hkparam name="payload">null</hkparam>
+				</hkobject>
+			</hkparam>
+		</hkobject>
+
+<!--Adds back AnimobjectUnequip event-->

@@ -1,0 +1,5 @@
+		<hkobject name="#para$172" class="hkbExpressionCondition" signature="0x1c3c1045">
+			<hkparam name="expression">(iParaLand_Queue == 0) &amp;&amp; (iWeapOut == 1)</hkparam>
+		</hkobject>
+
+<!--Adds in a check for having a weapon out to prevent incorrect transitions-->
